@@ -20,33 +20,40 @@ I enjoy turning ideas into working products, learning fast, and improving with e
 
 ## Featured Projects
 
-### 1) CozyCup_Cafe
-- **Problem:** Build a clean, easy-to-use website experience for a cafe brand.
-- **Solution:** Created a responsive multi-section website focused on usability and visual clarity.
-- **Tech:** HTML, CSS
-- **Impact:** Demonstrates strong frontend fundamentals, layout structure, and consistent styling.
-- **Links:** [Repo](https://github.com/EjLaquiorez/CozyCup_Cafe)
+### 1) LaroHub
+- **Problem:** Build an engaging platform experience for users to discover and interact with content.
+- **Solution:** Developed a structured web app flow with clear navigation and user-focused UI.
+- **Tech:** JavaScript/TypeScript, React, Node.js
+- **Impact:** Shows end-to-end full-stack thinking from frontend experience to backend behavior.
+- **Links:** [Repo](https://github.com/EjLaquiorez/LaroHub)
 
-### 2) MyQuotesBook
-- **Problem:** Create a simple app where users can save and revisit meaningful quotes.
-- **Solution:** Built a quote-focused web project with straightforward content organization and UI flow.
-- **Tech:** JavaScript, HTML, CSS
-- **Impact:** Shows practical JavaScript logic and user-focused interface decisions.
-- **Links:** [Repo](https://github.com/EjLaquiorez/MyQuotesBook)
+### 2) Signportal
+- **Problem:** Provide a simple and reliable portal workflow for user access and onboarding.
+- **Solution:** Implemented core portal pages and logic to support a clean authentication-ready flow.
+- **Tech:** JavaScript/TypeScript, React, Node.js
+- **Impact:** Demonstrates practical feature ownership and clear product-oriented implementation.
+- **Links:** [Repo](https://github.com/EjLaquiorez/Signportal)
 
-### 3) PSUSphereF
-- **Problem:** Design a polished frontend concept with scalable styles for a school/community project.
-- **Solution:** Implemented reusable styling patterns and organized SCSS structure.
-- **Tech:** SCSS, HTML
-- **Impact:** Highlights maintainable styling and component-oriented frontend thinking.
-- **Links:** [Repo](https://github.com/EjLaquiorez/PSUSphereF)
+### 3) Spotify-downloader
+- **Problem:** Automate and simplify media download workflow for users.
+- **Solution:** Built a downloader utility with input handling and processing logic.
+- **Tech:** JavaScript, Node.js
+- **Impact:** Highlights backend scripting, automation, and problem-solving on utility projects.
+- **Links:** [Repo](https://github.com/EjLaquiorez/Spotify-downloader)
 
-### 4) word-frequency-counter
-- **Problem:** Analyze text quickly by counting and ranking repeated words.
-- **Solution:** Built a text-processing utility that parses input and returns frequency results.
-- **Tech:** PHP
-- **Impact:** Demonstrates backend logic, data handling, and problem-solving outside the JS stack.
-- **Links:** [Repo](https://github.com/EjLaquiorez/word-frequency-counter)
+### 4) FscanV2
+- **Problem:** Improve scanning/analysis process with a faster and clearer workflow.
+- **Solution:** Created a versioned tool implementation focused on performance and usability improvements.
+- **Tech:** JavaScript/TypeScript, Node.js
+- **Impact:** Shows iteration mindset and ability to improve an existing solution.
+- **Links:** [Repo](https://github.com/EjLaquiorez/FscanV2)
+
+### 5) Brew-and-bake
+- **Problem:** Present a branded food/beverage concept with a polished web presence.
+- **Solution:** Designed and built a clean, responsive frontend with structured content sections.
+- **Tech:** HTML, CSS, JavaScript
+- **Impact:** Demonstrates UI consistency, responsive design, and frontend execution quality.
+- **Links:** [Repo](https://github.com/EjLaquiorez/Brew-and-bake)
 
 ## What I'm Learning Now
 
