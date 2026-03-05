@@ -20,26 +20,33 @@ I enjoy turning ideas into working products, learning fast, and improving with e
 
 ## Featured Projects
 
-### 1) [Project Name]
-- **Problem:** [What pain point or user need this project solves]
-- **Solution:** [What you built and how users use it]
-- **Tech:** React, Node.js, Express, MongoDB
-- **Impact:** [Example: Reduced manual steps by 40% / Used by X test users]
-- **Links:** [Live Demo](#) | [Repo](#)
+### 1) CozyCup_Cafe
+- **Problem:** Build a clean, easy-to-use website experience for a cafe brand.
+- **Solution:** Created a responsive multi-section website focused on usability and visual clarity.
+- **Tech:** HTML, CSS
+- **Impact:** Demonstrates strong frontend fundamentals, layout structure, and consistent styling.
+- **Links:** [Repo](https://github.com/EjLaquiorez/CozyCup_Cafe)
 
-### 2) [Project Name]
-- **Problem:** [Short project problem]
-- **Solution:** [Short project solution]
-- **Tech:** TypeScript, React, Node.js, PostgreSQL
-- **Impact:** [Example: Improved loading time by 30%]
-- **Links:** [Live Demo](#) | [Repo](#)
+### 2) MyQuotesBook
+- **Problem:** Create a simple app where users can save and revisit meaningful quotes.
+- **Solution:** Built a quote-focused web project with straightforward content organization and UI flow.
+- **Tech:** JavaScript, HTML, CSS
+- **Impact:** Shows practical JavaScript logic and user-focused interface decisions.
+- **Links:** [Repo](https://github.com/EjLaquiorez/MyQuotesBook)
 
-### 3) [Project Name]
-- **Problem:** [Short project problem]
-- **Solution:** [Short project solution]
-- **Tech:** JavaScript, React, Express
-- **Impact:** [Example: Added auth + role-based access for secure workflows]
-- **Links:** [Live Demo](#) | [Repo](#)
+### 3) PSUSphereF
+- **Problem:** Design a polished frontend concept with scalable styles for a school/community project.
+- **Solution:** Implemented reusable styling patterns and organized SCSS structure.
+- **Tech:** SCSS, HTML
+- **Impact:** Highlights maintainable styling and component-oriented frontend thinking.
+- **Links:** [Repo](https://github.com/EjLaquiorez/PSUSphereF)
+
+### 4) word-frequency-counter
+- **Problem:** Analyze text quickly by counting and ranking repeated words.
+- **Solution:** Built a text-processing utility that parses input and returns frequency results.
+- **Tech:** PHP
+- **Impact:** Demonstrates backend logic, data handling, and problem-solving outside the JS stack.
+- **Links:** [Repo](https://github.com/EjLaquiorez/word-frequency-counter)
 
 ## What I'm Learning Now
 
@@ -56,9 +63,10 @@ I enjoy turning ideas into working products, learning fast, and improving with e
 ## Contact / Availability
 
 - Open to: Junior Full-Stack Developer roles (remote / hybrid / on-site)
-- LinkedIn: [Your LinkedIn URL]
+- GitHub: [github.com/EjLaquiorez](https://github.com/EjLaquiorez)
+- LinkedIn: [Add your LinkedIn URL]
 - Email: ejlqrz@gmail.com
-- Portfolio: [Your Portfolio URL]
+- Portfolio: [Add your Portfolio URL]
 
 ---
 
