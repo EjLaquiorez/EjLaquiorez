@@ -101,7 +101,7 @@
 
 </div>
 
-<p align="center"><sub>Edit <code>YOUR_LINKEDIN_HANDLE</code> and <code>YOUR_PORTFOLIO_URL</code> in the Connect section, or remove those two badges until they're ready.</sub></p>
+
 
 <br />
 
