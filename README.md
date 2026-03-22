@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Junior+Full-Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Express;Clean+architecture%2C+readable+code%2C+real+user+value&font=Fira+Code&center=true&width=720&height=52&color=58A6FF&pause=900&vCenter=true&multiline=true&size=22&weight=500" alt="Animated subtitle" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Junior+Full-Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Express;Clean+architecture%2C+readable+code%2C+real+user+value&font=Fira+Code&center=true&width=620&height=40&color=58A6FF&pause=900&vCenter=true&multiline=true&size=15&weight=450" alt="Animated subtitle" />
 
 <br /><br />
 
