@@ -76,9 +76,10 @@
 
 ### GitHub activity
 
+<!-- github-readme-stats.vercel.app often returns 503 (deployment paused); mirror keeps these cards loading -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EjLaquiorez&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EjLaquiorez&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-jade-chi.vercel.app/api?username=EjLaquiorez&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-jade-chi.vercel.app/api/top-langs/?username=EjLaquiorez&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
   <img height="170" src="https://streak-stats.demolab.com/?user=EjLaquiorez&theme=tokyonight&hide_border=true&border_radius=4" alt="GitHub streak" />
 </p>
 
