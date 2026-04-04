@@ -8,7 +8,9 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Full-Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Express;Clean+architecture%2C+readable+code%2C+real+user+value&font=Fira+Code&center=true&width=680&height=88&color=58A6FF&pause=900&vCenter=true&multiline=true&size=15&weight=450&duration=4000" alt="Animated subtitle" />
 
-<br /><br />
+<p align="center"><sub>Junior full-stack developer · TypeScript, React, Node — shipping clean UX, solid APIs, and code teammates can maintain.</sub></p>
+
+<br />
 
 <a href="https://github.com/EjLaquiorez"><img src="https://img.shields.io/badge/GitHub-EjLaquiorez-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:ejlqrz@gmail.com"><img src="https://img.shields.io/badge/Email-ejlqrz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -20,33 +22,31 @@
 
 </div>
 
-<br />
-
 ---
 
-### About
+## About
 
 > Junior full-stack developer shipping **practical, user-friendly web apps** — from UI to APIs — with clear structure and code that teammates can maintain.
 
-- End-to-end delivery: **frontend UX** through **backend APIs** and persistence.
-- Focus on **clarity, architecture, and iteration** over buzzwords.
-- **Actively seeking** junior full-stack roles where I can contribute and level up fast.
-
-<br />
+- **Delivery:** End-to-end **frontend UX** through **backend APIs** and persistence.
+- **Focus:** **Clarity, architecture, and iteration** over buzzwords.
+- **Goals:** **Actively seeking** junior full-stack roles where I can contribute and level up fast.
 
 ---
 
-### Tech stack
+## Tech stack
+
+*Day-to-day tooling I reach for most often.*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,mongodb,postgres,git,github,vscode,postman,vercel,render&perline=8" alt="JavaScript, TypeScript, React, Node, Express, HTML, CSS, Tailwind, MongoDB, Postgres, Git, GitHub, VS Code, Postman, Vercel, Render" />
 </p>
 
-<br />
-
 ---
 
-### Featured projects
+## Featured projects
+
+*Selected work — representative repos, not a full catalog.*
 
 | Project | Highlights | Stack | Links |
 |:---|:---|:---|:---|
@@ -58,11 +58,9 @@
 
 <p align="center"><sub>Add live <strong>demo</strong> links in this table when you deploy — recruiters notice.</sub></p>
 
-<br />
-
 ---
 
-### Current focus
+## Current focus
 
 | Direction | What I'm doing |
 |:---|:---|
@@ -70,11 +68,11 @@
 | **Quality** | Jest & React Testing Library on real features |
 | **APIs** | REST design, structure, and maintainable service layers |
 
-<br />
-
 ---
 
-### GitHub activity
+## GitHub activity
+
+*Live stats from my public GitHub activity.*
 
 <!-- github-readme-stats.vercel.app often returns 503 (deployment paused); mirror keeps these cards loading -->
 <p align="center">
@@ -83,11 +81,9 @@
   <img height="170" src="https://streak-stats.demolab.com/?user=EjLaquiorez&theme=tokyonight&hide_border=true&border_radius=4" alt="GitHub streak" />
 </p>
 
-<br />
-
 ---
 
-### Connect
+## Connect
 
 <div align="center">
 
@@ -102,9 +98,7 @@
 
 </div>
 
-
-
-<br />
+<p align="center"><sub>Edit <code>YOUR_LINKEDIN_HANDLE</code> and <code>YOUR_PORTFOLIO_URL</code> in the Connect section, or remove those two badges until they're ready.</sub></p>
 
 <div align="center">
 
